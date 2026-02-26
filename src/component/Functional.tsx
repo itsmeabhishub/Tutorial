@@ -19,7 +19,8 @@ const Functional = () => {
 
   return (
     <div className="welcome">
-        <div><h2>{count}</h2></div>
+        <div>Functional Component</div>
+        <div><h1>{count}</h1></div>
         
         <button className="button" onClick={increment}>Increase</button>
         <button className="button" onClick={decrease} disabled={count<=1}>Decrease</button>
