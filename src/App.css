@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.welcome{
+  background-color: #73731d;
+    width: 300px;
+    height: auto;
+    text-align: center;
+    border-radius: 15px;
+    transition: transition 0.3s;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
+    padding: 20px;
+}
+
+.button{
+  margin: 5px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
