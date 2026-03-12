@@ -1,8 +1,8 @@
-import React from 'react'
 
+import './Manager.css'
 const Manager = () => {
   return (
-    <div>Manager</div>
+    <div className='manager-page'><p>Manager</p></div>
   )
 }
 
