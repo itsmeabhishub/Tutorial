@@ -1,8 +1,8 @@
-import React from 'react'
+import './User.css'
 
 const User = () => {
   return (
-    <div>User</div>
+    <div className='user-page'><p>User</p></div>
   )
 }
 

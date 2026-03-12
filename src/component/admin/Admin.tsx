@@ -1,8 +1,8 @@
-import React from 'react'
+import './Admin.css'
 
 const Admin = () => {
   return (
-    <div>Admin</div>
+    <div className='admin-page'><p>Admin</p></div>
   )
 }
 
